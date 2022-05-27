@@ -12,6 +12,8 @@ static char **plugindirs    = (char*[]){
 	NULL
 };
 
+#define HOMEPAGE "https://duckduckgo.com/";
+
 /* Webkit default features */
 /* Highest priority value will be used.
  * Default parameters are priority 0
